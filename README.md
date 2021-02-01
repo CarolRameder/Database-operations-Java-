@@ -1,4 +1,4 @@
-# Lab8-optional-part-
+# Database operations(Java)
 
 A solved the tasks for the optional part, all the information in the tables is hardcoded .
 I created the clases Chart, Artist, Album .
